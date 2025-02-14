@@ -1,4 +1,4 @@
-# Task 3PASSWORD GENERATOR
+# Task 3 PASSWORD GENERATOR
 
 **COMPANY** : Codsoft
 
